@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-image: url(caillou.gif);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+}
+.stuff img {
+    max-width: 100%;
+    max-height: 100%;
+    float: left;
+}
+.stuff a {
+    font-size: 55px;
+    padding: 9px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    transition: 300ms;
+}
+.list {
+    display: flex;
+    margin: 0;
+}
+.stuff li {
+    float: left;
+    margin-right: 25px;
+    margin-left: 94px;
+}
+.stuff a:hover {
+    font-size: 65px;
+}
+.announce {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+p {
+    color: white;
+}
+.vids {
+    display: flex;
+}
+.vids p {
+    margin-left: 27px;
+    flex-grow: 1;
+}
