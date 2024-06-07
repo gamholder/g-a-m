@@ -2,7 +2,7 @@ body {
     background-color: black;
     font-family: Arial, sans-serif;
     margin-left: 90px;
-    margin-right: 90px;
+    margin-right: 50px;
     background-image: url(caillou.gif);
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -29,7 +29,7 @@ body {
 .stuff li {
     float: left;
     margin-right: 25px;
-    margin-left: 94px;
+    margin-left: 104px;
 }
 .stuff a:hover {
     font-size: 65px;
