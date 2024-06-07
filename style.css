@@ -28,7 +28,7 @@ body {
 .stuff li {
     float: left;
     margin-right: 25px;
-    margin-left: 204px;
+    margin-left: 504px;
 }
 .stuff a:hover {
     font-size: 65px;
